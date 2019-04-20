@@ -93,10 +93,10 @@
    #mainNav .navbar-brand {
      font-weight: 700;
      text-transform: uppercase;
-     color: #F05F40;
+     color:#2f0c04 ;
      font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
      #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-       color: #f05f40; }
+       color: #2f0c04; }
    #mainNav .navbar-toggle {
      font-size: 12px;
      font-weight: 700;
@@ -137,7 +137,7 @@
          background-color: white; }
          #mainNav.navbar-shrink .navbar-brand {
            font-size: 16px;
-           color: #F05F40; }
+           color: #2f0c04; }
            #mainNav.navbar-shrink .navbar-brand:focus, #mainNav.navbar-shrink .navbar-brand:hover {
              color:  #2f0c04; }
          #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link,
