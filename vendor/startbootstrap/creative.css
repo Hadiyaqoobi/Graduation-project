@@ -19,13 +19,13 @@
  hr {
    max-width: 50px;
    border-width: 3px;
-   border-color: #F05F40; }
+   border-color: #2f0c04; }
  
  hr.light {
    border-color: white; }
  
  a {
-   color: #F05F40;
+   color: #2f0c04;
    -webkit-transition: all 0.2s;
    -moz-transition: all 0.2s;
    transition: all 0.2s; }
